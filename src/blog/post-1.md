@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
+# layout: ../../layouts/MarkdownPostLayout.astro
 
 title: 'My First Blog Post Test'
 pubDate: 2022-07-01

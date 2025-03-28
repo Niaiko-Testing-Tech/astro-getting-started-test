@@ -87,5 +87,33 @@ h1 {
   
 }
 
+html.dark{
+    background-color: #0d0950;
+    color: #fff;
+}
+
+.dark .nav-links a {
+    color: #fff;
+}
+
+.dark li.skill {
+    color: aqua;
+}
 
 
+/* greeting button */
+.greet-button {
+    border-radius: 10px;
+    display: inline-block;
+    padding: 0.8em 1.5em;
+    background-color: #f1f5f9;
+    font-size: 1em;
+    font-weight: 700;
+    transition: 200ms ease-in-out;
+    border: 1px solid black;
+}
+
+.greet-button:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
